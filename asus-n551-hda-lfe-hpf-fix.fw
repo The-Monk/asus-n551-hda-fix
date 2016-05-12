@@ -1,0 +1,13 @@
+[codec]
+0x10ec0668 0x1043177d 0
+
+[model]
+dell-headset-multi
+
+[pincfg]
+0x1a 0x90170151
+
+[hint]
+jack_detect = yes
+
+### [model] dell-headset-multi << takes care of the in-line headset mic 
